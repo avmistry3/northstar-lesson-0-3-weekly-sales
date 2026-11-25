@@ -1,0 +1,19 @@
+
+LinenLane Weekly Sales Report
+-----------------------------------
+week1 5000 Below average
+week2 25000 Above average
+week3 6000 Below average
+week4 15000 Above average
+week5 20000 Above average
+week6 12000 Below average
+week7 22000 Above average
+week8 8500 Below average
+________________________________________________
+
+Summary
+________________________________________________
+Total sales :113500
+Average     :14187.5
+Higest week :25000
+Lowest week :5000
